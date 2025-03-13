@@ -22,25 +22,6 @@ Lifeline is a mobile application designed to assist users in navigating to vario
 - **Connectivity Plus**: A Flutter plugin for checking internet connectivity.
 - **Cached Network Image**: A Flutter library for loading and caching network images.
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/lifeline.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd lifeline
-    ```
-3. Install the dependencies:
-    ```sh
-    flutter pub get
-    ```
-4. Run the app:
-    ```sh
-    flutter run
-    ```
-
 ## Usage
 
 1. **View Marker Information**: Tap on a marker to view its information.
@@ -64,7 +45,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## Contact
-
-For any inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
