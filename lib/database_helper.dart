@@ -48,6 +48,7 @@ class DatabaseHelper {
             {'latitude': 14.84659, 'longitude': 120.42011, 'address': 'Magsaysay, Dinalupihan 2110, Bataan', 'type': 'School', 'barangay': 'Magsaysay', 'captain': 'Daniel S. Quinto', 'contact': '09432921043', 'name': 'Magsaysay Elementary School'},
             {'latitude': 14.89391, 'longitude': 120.4394, 'address': 'Pita, Dinalupihan 2110, Bataan', 'type': 'School', 'barangay': 'Pita', 'captain': 'Josephine N. Jones', 'contact': '9082533842', 'name': 'Pita Elementary School'},
             {'latitude': 14.84804, 'longitude': 120.42463, 'address': 'San Benito, Dinalupihan 2110, Bataan', 'type': 'School', 'barangay': 'San Benito', 'captain': 'Armando S. Felicitas', 'contact': 'No data available', 'name': 'San Benito Elementary School'}
+            
           ];
 
           for (var marker in markers) {
